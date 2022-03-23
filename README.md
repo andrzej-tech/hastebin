@@ -14,5 +14,9 @@ In default configuration of this container Redis backups data under /data.
 Simply backup:
 - appendonly.aof
 - dump.rdb 
+
 to different location.
 To restore copy it back.
+
+More on redis backups:
+https://hub.docker.com/_/redis
