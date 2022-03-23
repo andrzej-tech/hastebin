@@ -11,5 +11,8 @@ https://hub.docker.com/r/rlister/hastebin
 ## Backups:
 
 In default configuration of this container Redis backups data under /data.
-Simply backup "appendonly.aof" and "dump.rdb" to different location.
+Simply backup:
+- appendonly.aof
+- dump.rdb 
+to different location.
 To restore copy it back.
