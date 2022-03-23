@@ -5,7 +5,7 @@ Usage:
 
 1. Install docker and doker-compose
 2. Clone this repro
-3. Run docker-compose up
+3. Run "docker-compose up"
 
 Backups:
 
